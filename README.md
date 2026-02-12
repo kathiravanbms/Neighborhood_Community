@@ -9,7 +9,9 @@ This project handles gardeners, plot allocation, and validation using a proper l
     Oracle (any JDBC-supported DB)
 
     output :
-    <img width="484" height="159" alt="image" src="https://github.com/user-attachments/assets/1f9444ea-5c0c-4dc1-aa00-ba707414f2d3" />
+
+<img width="481" height="176" alt="Screenshot 2026-02-12 092726" src="https://github.com/user-attachments/assets/86ba7bb9-394b-47dd-9e2a-edfe4e6dc37a" />
+
 
 
 
